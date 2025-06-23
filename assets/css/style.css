@@ -73,7 +73,7 @@ pre {
   padding:8px 15px;
   background: #f8f8f8;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #0c0a1c;
   overflow-x: auto;
 }
 
@@ -85,7 +85,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #0c0a1c;
 }
 
 dt {
@@ -103,10 +103,10 @@ img {
 
 kbd {
   background-color: #fafbfc;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
+  border: 1px solid #0c0a1c;
+  border-bottom-color: #0c0a1c;
   border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
+  box-shadow: inset 0 -1px 0 #0c0a1c;
   color: #444d56;
   display: inline-block;
   font-size: 11px;
@@ -128,14 +128,14 @@ ul.downloads {
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:1px solid #0c0a1c;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #0c0a1c;
   height:40px;
 }
 
@@ -163,7 +163,7 @@ ul.downloads {
 }
 
 .downloads ul a:active {
-  background-color:#f0f0f0;
+  background-color:#0c0a1c;
 }
 
 strong {
@@ -194,7 +194,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#0c0a1c;
   height:1px;
   margin:0 0 20px;
 }
