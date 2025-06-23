@@ -45,7 +45,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#70346c;
+  color:#365a78;
   font-weight: bold;
 }
 
@@ -57,7 +57,7 @@ a small {
 }
 
 a:hover small {
-  color:#70346c;
+  color:#365a78;
 }
 
 .wrapper {
@@ -134,6 +134,7 @@ header {
   height: 100%;
   padding: 50px;
   box-sizing: border-box;
+  color: white;
 }
 
 /* Markdown section (right content) */
@@ -141,8 +142,7 @@ section {
   width: 600px;
   float: right;
   background-color: white; /* keep this white */
-  padding: 50px;
-  box-sizing: border-box;
+  color: #2f0044;
 }
 
 ul.downloads {
