@@ -1,13 +1,15 @@
 body {
-  background-color: #f0db9d	;
-  padding:50px;
+  background-color: white; /* white page background */
+  padding: 50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#373c49;
-  font-weight:400;
+  color: #000b4b;
+  font-weight: 400;
+  border: 10px solid #365a78; /* colorful border */
+  box-sizing: border-box; /* include border in layout size */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#a54a7f;
+  color:#70346c;
   margin:0 0 20px;
 }
 
@@ -24,37 +26,38 @@ h1 {
 }
 
 h2 {
-  color:#373c49;
+  color:#2f0044;
 }
 
 h3, h4, h5, h6 {
-  color:#373c49;
+  color:#2f0044;
 }
 
 a {
-  color:#373c49;
+  color:#2f0044;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#a54a7f;
+  color:#70346c;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#0c0a1c;
+  color:#2f0044;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#1e09ba;
+  color:#70346c;
 }
 
 .wrapper {
   width:860px;
   margin:0 auto;
+  background-color: transparent;
 }
 
 blockquote {
