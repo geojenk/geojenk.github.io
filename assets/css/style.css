@@ -2,13 +2,13 @@ body {
   background-color: white; /* white page background */
   padding: 50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #000b4b;
+  color: #FFF;
   font-weight: 400;
 }
 
 .subtitle {
   font-size: 18px;
-  color: #2f0044;
+  color: #FFF;
   margin-top: -10px;
   margin-bottom: 20px;
   font-weight: normal;
@@ -125,21 +125,22 @@ kbd {
 
 /* Sidebar (YAML content) */
 header {
-  width: 270px;
+  width: 400px;
   float: left;
-  position: fixed;
+  top: 0px;
+  left: 0px;
   background-color: #365a78; /* or any color you like */
   height: 100%;
-  padding: 20px;
+  padding: 50px;
   box-sizing: border-box;
 }
 
 /* Markdown section (right content) */
 section {
-  width: 500px;
+  width: 600px;
   float: right;
   background-color: white; /* keep this white */
-  padding: 40px;
+  padding: 50px;
   box-sizing: border-box;
 }
 
