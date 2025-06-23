@@ -1,13 +1,13 @@
 body {
-  background-color: #FFF	;
+  background-color: #f0db9d	;
   padding:50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#0c0a1c;
+  color:#373c49;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#0c0a1c;
+  color:#a54a7f;
   margin:0 0 20px;
 }
 
@@ -24,20 +24,20 @@ h1 {
 }
 
 h2 {
-  color:#0c0a1c;
+  color:#373c49;
 }
 
 h3, h4, h5, h6 {
-  color:#0c0a1c;
+  color:#373c49;
 }
 
 a {
-  color:#0c0a1c;
+  color:#373c49;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#1e09ba;
+  color:#a54a7f;
   font-weight: bold;
 }
 
