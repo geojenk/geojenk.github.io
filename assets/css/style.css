@@ -8,14 +8,14 @@ body {
 
 .subtitle {
   font-size: 18px;
-  color: #70346c;
+  color: #2f0044;
   margin-top: -10px;
   margin-bottom: 20px;
   font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#70346c;
+  color:#2f0044;
   margin:0 0 20px;
 }
 
@@ -123,11 +123,24 @@ kbd {
   vertical-align: middle;
 }
 
+/* Sidebar (YAML content) */
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 270px;
+  float: left;
+  position: fixed;
+  background-color: #365a78; /* or any color you like */
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Markdown section (right content) */
+section {
+  width: 500px;
+  float: right;
+  background-color: white; /* keep this white */
+  padding: 40px;
+  box-sizing: border-box;
 }
 
 ul.downloads {
