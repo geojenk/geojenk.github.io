@@ -1,9 +1,14 @@
 title: Georgia Jenkins # your name (or website title) here
 subtitle: Data Scientist and MPH
 logo: "/images/headshot_round.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > 
   <br>
-  <a href="https://www.linkedin.com/in/jenkins-georgia/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jenkins-georgia/" target="_blank">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="https://github.com/geojenk" target="_blank">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

@@ -1,5 +1,5 @@
 body {
-  background-color: white; /* white page background */
+  background-color: #FFF; /* white page background */
   padding: 50px;
   font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFF;
@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#FFF;
+  /* color:red; */
   margin:0 0 20px;
 }
 
@@ -32,32 +32,32 @@ h1 {
 }
 
 h2 {
-  color:#2f0044;
+  color:#3a1c63;
 }
 
 h3, h4, h5, h6 {
-  color:#2f0044;
+  color:#3a1c63;
 }
 
 a {
-  color:#2f0044;
+  color:#3a1c63;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#365a78;
+  color:#9177d1;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#2f0044;
+  color:#9177d1;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#365a78;
+  color:#c5a2f2;
 }
 
 .wrapper {
@@ -125,12 +125,12 @@ kbd {
 
 /* Sidebar (YAML content) */
 header {
-  width: 400px;
+  width: 500px;
   float: left;
   top: 0px;
   left: 0px;
   position: fixed;
-  background-color: #70346c; /* or any color you like */
+  background-color:#d2b4fa; /* or any color you like */
   height: 100%;
   padding: 50px;
   box-sizing: border-box;
@@ -139,10 +139,10 @@ header {
 
 /* Markdown section (right content) */
 section {
-  width: 600px;
+  width: 800px;
   float: right;
   background-color: white; /* keep this white */
-  color: #2f0044;
+  color:black;
 }
 
 ul.downloads {
@@ -222,13 +222,14 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
+/* footer {
   width:270px;
   float:left;
   position:fixed;
+  left: 0px;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
-}
+} */
 
 @media print, screen and (max-width: 960px) {
 
@@ -237,7 +238,8 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header, section {
+  /* , footer { */
     float:none;
     position:static;
     width:auto;
