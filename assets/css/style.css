@@ -1,13 +1,13 @@
 body {
   background-color: #FFF; /* white page background */
   padding: 50px;
-  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFF;
   font-weight: 400;
 }
 
 .subtitle {
-  font-size: 18px;
+  font-size: 20px;
   color: #FFF;
   margin-top: -10px;
   margin-bottom: 20px;
@@ -132,7 +132,10 @@ header {
   position: fixed;
   background-color:#d2b4fa; /* or any color you like */
   height: 100%;
-  padding: 50px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
   box-sizing: border-box;
   color: white;
 }
