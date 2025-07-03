@@ -106,7 +106,7 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width:90%;
 }
 
 kbd {
@@ -125,7 +125,7 @@ kbd {
 
 /* Sidebar (YAML content) */
 header {
-  width: 500px;
+  width: 33%;
   float: left;
   top: 0px;
   left: 0px;
@@ -142,7 +142,7 @@ header {
 
 /* Markdown section (right content) */
 section {
-  width: 800px;
+  width: 67%;
   float: right;
   background-color: white; /* keep this white */
   color:black;
@@ -276,7 +276,9 @@ hr {
   }
 
   header {
-    padding:0;
+    padding:20px;
+    align-items: center;
+    text-align: center;
   }
 
   header ul, header p.view {
