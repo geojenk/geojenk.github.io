@@ -1,7 +1,7 @@
 body {
   background-color: #FFF; /* white page background */
   padding: 50px;
-  font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #FFF;
   font-weight: 400;
 }
@@ -75,6 +75,7 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
+  font-size: 12px;
 }
 
 pre {
