@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Updated ML Model for Breast Cancer Diagnosis](/breast_cancer_page)
+<img src="images/tumor_cells.jpg?raw=true"/>
 
 ---
 [R Shiny Analytics Suite](/pdf/analytics_suite.pdf)
