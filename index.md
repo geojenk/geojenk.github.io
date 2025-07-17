@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[About Me](/sample_page)
+[About Me](/about_me)
 <img src="images/about_me.jpg?raw=true"/>
 
 ---
