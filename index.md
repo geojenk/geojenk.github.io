@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-[Breast Cancer Diagnosis - Random Forest](/breast_cancer_page)
-<img src="images/tumor_cells.jpg?raw=true"/>
+[About Me](/sample_page)
+<img src="images/about_me.jpg?raw=true"/>
 
 ---
 [Healthcare Analytics Suite - R Shiny](/pdf/analytics_suite.pdf)
@@ -16,7 +16,7 @@
 
 ### More Projects
 
-- [Project 1 Title](http://example.com/)
+- [Breast Cancer Diagnosis - Random Forest](https://github.com/geojenk/BreastCancerMachineLearning/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
