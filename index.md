@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Breast Cancer Diagnosis - Random Forest Model](/breast_cancer_page)
+[Breast Cancer Diagnosis - Random Forest](/breast_cancer_page)
 <img src="images/tumor_cells.jpg?raw=true"/>
 
 ---
