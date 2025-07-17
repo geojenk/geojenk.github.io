@@ -5,7 +5,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[R Shiny Analytics Suite](/pdf/sample_presentation.pdf)
+[R Shiny Analytics Suite](/pdf/analytics_suite.pdf)
 <img src="images/analytics_suite.jpg?raw=true"/>
 
 ---
