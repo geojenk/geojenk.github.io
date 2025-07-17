@@ -1,16 +1,16 @@
 ## Portfolio
 
 ---
-[Updated ML Model for Breast Cancer Diagnosis](/breast_cancer_page)
+[Breast Cancer Diagnosis - Random Forest](/breast_cancer_page)
 <img src="images/tumor_cells.jpg?raw=true"/>
 
 ---
-[R Shiny Analytics Suite](/pdf/analytics_suite.pdf)
+[Healthcare Analytics Suite - R Shiny](/pdf/analytics_suite.pdf)
 <img src="images/analytics_suite.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diabetes Management Program - PostgreSQL](diabetes_mgmt_program_report)
+<img src="images/diabetes_stock.jpg?raw=true"/>
 
 ---
 
