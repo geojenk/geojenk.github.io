@@ -17,10 +17,7 @@
 ### More Projects
 
 - [Breast Cancer Diagnosis - Random Forest](https://github.com/geojenk/BreastCancerMachineLearning/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Medical Claims Analysis - R](https://github.com/geojenk/ClaimsDataAnalysis/tree/main/)
 
 
 
