@@ -1,10 +1,10 @@
-# Diabetes Management Program Report
+## Diabetes Management Program Report
 
 Author: Georgia Jenkins
 
 Date: 22 July 2024
 
-## Results
+### Results
 
 **Table 1: Diabetes Onset Date**
 
@@ -48,9 +48,9 @@ The total visit count includes regular visits and A1C lab visits. Data was limit
 | 4          | 3            |
 | 5          | 2            |
 
-## Queries
+### Queries
 
-### Query 1: Most likely onset date
+#### Query 1: Most likely onset date
 
 **Method & Rationale:** To determine the most likely diabetes onset date for each patient, we need to identify the earliest valid date that indicates that the patient is living with diabetes. I took the following approach:
 
@@ -103,7 +103,7 @@ WITH PossibleDates AS(
   ORDER BY patient_ID;
 ```
 
-### Query #2: Hemoglobin Results
+#### Query #2: Hemoglobin Results
 
 ```sql
 --Question 2: latest hemoglobin a1c lab date and result for each patient, along with the delta/difference from their previous one
@@ -132,7 +132,7 @@ WITH OrderedDates AS(
   ORDER BY latest.patient_ID;
 ```
 
-### Query #3: Total Visits
+#### Query #3: Total Visits
 
 ```sql
 -- Question 3: Total visits per patient over the last 2 years
