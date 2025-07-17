@@ -5,8 +5,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[R Shiny Analytics Suite](/pdf/sample_presentation.pdf)
+<img src="images/analytics_suite.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
