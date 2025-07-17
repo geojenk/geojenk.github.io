@@ -1,4 +1,4 @@
-### Updated ML Model for Breast Cancer Tumor Diagnosis
+### Updated ML Model for Breast Cancer Diagnosis
 
 View the full project on [GitHub](https://github.com/geojenk/BreastCancerMachineLearning/tree/main).
 
